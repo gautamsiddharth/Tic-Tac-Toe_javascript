@@ -1,0 +1,63 @@
+
+td {
+	border:  3px solid rgb(26, 128, 0);
+	height:  120px;
+	width:  120px;
+	text-align:  center;
+	vertical-align:  middle;
+    font-size:  70px;
+    color: rgb(0, 255, 13);
+	cursor: pointer;
+}
+.Heading{
+    position: fixed;
+    left: 47%;
+    margin-left: -110px;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 3px;
+    color: rgb(0, 255, 13);
+    font-size: 2em; 
+}
+table {
+	border-collapse: collapse;
+    position: fixed;
+    border-radius: 0.5px;
+	left: 50%;
+	margin-left: -155px;
+	top: 90px;
+}
+.choose{
+    display: right;
+    width: 220px;
+    top: 90px;
+    position: fixed;
+    left: 20%;
+    margin-left: -110px;
+    padding-top: 1px;
+    padding-bottom: 50px;
+    text-align: center;
+    border-radius: 5px;
+    color: yellow;
+    font-size: 2em; 
+}
+.choose button{
+    font-size:  50px;
+    width: 70px;
+}
+
+.endgame {
+  display: none;
+  width: 200px;
+  top: 120px;
+  
+  position: fixed;
+  left: 80%;
+  margin-left: -100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  color: yellow;
+  font-size: 3em;
+}
